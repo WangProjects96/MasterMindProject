@@ -1,0 +1,106 @@
+Z:\Projet Visual\Projet\Projet\bin\Debug\Projet.exe.config
+Z:\Projet Visual\Projet\Projet\bin\Debug\Projet.exe
+Z:\Projet Visual\Projet\Projet\bin\Debug\Projet.pdb
+Z:\Projet Visual\Projet\Projet\bin\Debug\Projet.xml
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.Form1.resources
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.Resources.resources
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.exe
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.xml
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.pdb
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+Z:\Projet Visual\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+Z:\IHM Visual\Projet Visual\Projet\Projet\bin\Debug\Projet.exe.config
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.exe
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.xml
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.pdb
+Z:\IHM Visual\Projet Visual\Projet\Projet\bin\Debug\Projet.exe
+Z:\IHM Visual\Projet Visual\Projet\Projet\bin\Debug\Projet.pdb
+Z:\IHM Visual\Projet Visual\Projet\Projet\bin\Debug\Projet.xml
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.Form1.resources
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.Resources.resources
+Z:\IHM Visual\Projet Visual\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+D:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe.config
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.exe
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.xml
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.pdb
+D:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe
+D:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.pdb
+D:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.xml
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.Resources.resources
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+E:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe.config
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.exe
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.xml
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.pdb
+E:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe
+E:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.pdb
+E:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.xml
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.Resources.resources
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormPattern.resources
+E:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormStatistiques.resources
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormPattern.resources
+D:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormStatistiques.resources
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormPattern.resources
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormStatistiques.resources
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\Disloxia\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormPattern.resources
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormStatistiques.resources
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+Z:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe.config
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.exe
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.xml
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.pdb
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormPattern.resources
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.FormStatistiques.resources
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.Resources.resources
+Z:\Projet IHM Visual Basic\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+Z:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe
+Z:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.pdb
+Z:\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\babouri\Desktop\Projet IHM Visual Basic\Projet\Projet\bin\Debug\Projet.xml
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\bin\Debug\Projet.exe.config
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.exe
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.xml
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.pdb
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\bin\Debug\Projet.exe
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\bin\Debug\Projet.pdb
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\bin\Debug\Projet.xml
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.FormPattern.resources
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.FormAccueil.resources
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.FormJeu.resources
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.FormStatistiques.resources
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.Resources.resources
+E:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.Cache
+D:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\bin\Debug\Projet.exe.config
+D:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.exe
+D:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.xml
+D:\Projet IHM Visual Basic_Wang_Babouri_107\Projet\Projet\obj\Debug\Projet.pdb
